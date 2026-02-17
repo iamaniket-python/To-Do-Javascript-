@@ -1,0 +1,1 @@
+This repository contains my JavaScript practice project. It demonstrates basic to intermediate concepts including functions, loops, conditionals, and DOM handling. The goal of this project is to strengthen my problem-solving skills and improve my understanding of JavaScript.
